@@ -2,9 +2,9 @@
 A repository for our data entry/auditing applications.
 
 # Roles
-* Ben (Project Management / Front End)
-* Kevin (Front End)
-* Michael	(Back End)
-* Shin	(Back End)
-* Stephen	(Back end)
-* Wesley (Front End)
+* :calendar: Ben (Project Management / Front End) 
+* :iphone: Kevin (Front End)
+* :floppy_disk: Michael	(Back End)
+* :floppy_disk: Shin	(Back End)
+* :floppy_disk: Stephen	(Back end)
+* :iphone: Wesley (Front End)
